@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First EC2 Instance</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        h1 {
+            color: #FF9900; /* AWS orange */
+        }
+        .aws-icon {
+            font-size: 60px;
+            margin: 20px 0;
+            color: #FF9900;
+        }
+        .success-message {
+            background-color: #d4edda;
+            color: #155724;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        .instance-details {
+            text-align: left;
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #FF9900;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background-color: #e68a00;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="aws-icon">☁️</div>
+        <h1>My First EC2 Instance is Running!</h1>
+        
+        <div class="success-message">
+            🎉 Congratulations! You've successfully launched your first Amazon EC2 instance.
+        </div>
+        
+        <p>This webpage is being served from your very own cloud server on AWS.</p>
+        
+        <div class="instance-details">
+            <h3>Instance Information:</h3>
+            <p><strong>Service:</strong> Amazon EC2 (Elastic Compute Cloud)</p>
+            <p><strong>Status:</strong> Running</p>
+            <p><strong>Launch Time:</strong> <span id="launch-time"></span></p>
+            <p><strong>Region:</strong> <span id="region">YOUR REGION</span></p>
+        </div>
+      </div>
+
+    <script>
+        // Set the launch time to current time
+        document.getElementById('launch-time').textContent = new Date().toLocaleString();
+        
+        // You can add more dynamic content here if needed
+    </script>
+</body>
+</html>
