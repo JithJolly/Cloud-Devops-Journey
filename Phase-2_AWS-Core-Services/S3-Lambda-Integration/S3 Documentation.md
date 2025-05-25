@@ -194,7 +194,6 @@ The frontend code is already properly integrated with the backend services. Simp
 5. Lambda queries DynamoDB → returns data to frontend
 
 ---
-## 🎞️ Project Demo Video
 
 ## 🎞️ Project Demo Video
 
