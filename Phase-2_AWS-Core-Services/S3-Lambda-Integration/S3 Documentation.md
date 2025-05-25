@@ -28,7 +28,7 @@ This project demonstrates how to:
 5. **Uncheck** "Block all public access" → Confirm acknowledgement
 6. Click **Create bucket**
 
-📸 *Attach Screenshot:* `screenshots/create-bucket.png`
+📸 *Screenshot:* ![Create Bucket](https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/create-bucket.png)
 
 ---
 
@@ -103,7 +103,7 @@ http://your-bucket-name.s3-website-<region>.amazonaws.com
 
 
 
-📸 *Attach Screenshot:* `screenshots/static-hosting-enabled.png`
+📸 *Screenshot:* ![Create Bucket](https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/static-hosting-enabled.png)
 
 ---
 
@@ -197,9 +197,4 @@ The frontend code is already properly integrated with the backend services. Simp
 
 ## 🎞️ Project Demo Video
 
-<p align="center">
-  <video width="640" height="360" controls>
-    <source src="[![Watch Demo](screenshots/video-thumbnail.png)](https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/s3-lambda-api-DynamoDb%20Integration%20Project.mp4 )" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+[![Watch Demo](https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/video-thumbnail.png)](https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/s3-lambda-api-DynamoDb%20Integration%20Project.mp4)
