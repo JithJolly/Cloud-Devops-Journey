@@ -199,7 +199,7 @@ The frontend code is already properly integrated with the backend services. Simp
 
 <p align="center">
   <video width="640" height="360" controls>
-    <source src="https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/s3-lambda-api-DynamoDb%20Integration%20Project.mp4 " type="video/mp4">
+    <source src="[![Watch Demo](screenshots/video-thumbnail.png)](https://github.com/JithJolly/Cloud-Devops-Journey/raw/main/Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/s3-lambda-api-DynamoDb%20Integration%20Project.mp4 )" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
