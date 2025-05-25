@@ -194,4 +194,11 @@ The frontend code is already properly integrated with the backend services. Simp
 5. Lambda queries DynamoDB → returns data to frontend
 
 ---
+## 🎞️ Project Demo Video
 
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="Phase-2_AWS-Core-Services/S3-Lambda-Integration/screenshots/s3-lambda-api-DynamoDb Integration Project.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
