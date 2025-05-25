@@ -39,7 +39,6 @@ This project demonstrates how to:
 3. Add files: `index.html`, `style.css`, `script.js`, etc.
 4. Click **Upload**
 
-📸 *Attach Screenshot:* `screenshots/upload-files.png`
 
 ---
 
